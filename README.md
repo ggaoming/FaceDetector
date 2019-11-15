@@ -6,7 +6,7 @@ Requirement:
 
 	1. tensorflow 1.12
 	2. opencv
-  3. numpy
+	3. numpy
 
 Example:
 
